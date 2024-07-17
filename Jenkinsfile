@@ -32,7 +32,7 @@ pipeline {
             
         }
         
-        stage ('Echo Branch') {
+        stage ('Echo Branch-ritesh') {
 
             steps {
                 
